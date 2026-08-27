@@ -54,3 +54,6 @@
 - **Plain Craft Launcher 2**：https://github.com/Hex-Dragon/PCL2
 - **PCL Community Edition**：https://github.com/PCL-Community/PCL-CE
 - 特别感谢 **DeepSeek** 提供的编程指导与建议。
+
+## 国内下载链接
+- 蓝奏云网盘：https://wwbxj.lanzoul.com/b01bjnlkxa 密码:JCL
