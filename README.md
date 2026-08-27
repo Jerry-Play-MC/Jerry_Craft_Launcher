@@ -1,4 +1,4 @@
-﻿# Jerry Craft Launcher
+# Jerry Craft Launcher
 
 > A lightweight Minecraft launcher based on C# .NET Framework 3.5
 
@@ -15,11 +15,27 @@
 
 ## 🚀 How to Use
 
+This launcher is heavily optimized for Windows 7, but requires some preparation before first run.
+
+### Windows 7 Users
+Please ensure the following two system updates are installed, otherwise the launcher will not be able to access network services:
+1. **KB3140245** (Enable TLS 1.1/1.2 support)  
+2. **KB3154518** or **KB3156421** (Add TLS 1.2 support for .NET Framework 3.5)
+
+> 💡 Our launcher will include automatic detection and installation of these patches in a future version. For this preview release, you need to install them manually.
+
+### Windows 8.1 / Windows 10 / Windows 11 Users
+1. Open **Control Panel**, change the view mode to **Category**
+2. Click **Programs**
+3. Click **Turn Windows features on or off**
+4. Check **.NET Framework 3.5 (includes .NET 2.0 and 3.0)**
+5. Click **OK**
+6. Wait for installation to complete (**make sure you are connected to the internet**, Windows will download needed files from Windows Update)
+7. **Restart your computer**
+
 ### Method 1: Direct Run (Recommended for Regular Users)
-1. Go to the **Releases** section on the right side and download the latest `JerryCraftLauncher.exe`.
+1. Get the latest `JerryCraftLauncher.exe` from the **Releases** section of this repository, or from the provided compressed package in the project root.
 2. Double-click to run (no installation required).
-3. On first launch, the program will guide you to select your `.minecraft` folder location (supports selecting the official launcher's directory).
-4. Log in with a Microsoft account or choose offline mode, then click Launch to play.
 
 > 💡 If your antivirus software flags the launcher, please add it to the exclusion list. This is because the launcher uses code compression (Costura.Fody) and does not have a digital signature.
 
