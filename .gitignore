@@ -1,0 +1,26 @@
+# Visual Studio 编译输出
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio 用户设置
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# NuGet 包
+packages/
+
+# 运行时生成的文件（你的启动器生成的账号文件等）
+Launcher Setting/
+*.json
+
+# 系统文件
+Thumbs.db
+Desktop.ini

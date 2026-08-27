@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="New Launcher.csproj" Id="4a37b24d-0f3b-4280-8b51-c036b3c0bfe0">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
