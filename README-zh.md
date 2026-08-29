@@ -28,6 +28,7 @@
 -     5.点击“确定”
 -     6.等待安装完成（请确保联网，系统会从 Windows Update 下载所需文件）
 -     7.重启电脑
+> 我们会提高项目框架至.NET Framework 4.5用于在Windows 8+上直接运行。Windows 7也不会需要遍地寻找系统更新，只需要安装.NET Framework 4.5框架即可。
 
 ### 方式一：直接运行（推荐普通用户）
 1. 下方链接下载最新的 `JerryCraftLauncher.exe`。
