@@ -71,6 +71,6 @@ The learning and development of this project referenced the following excellent 
 - **PCL Community Edition**: https://github.com/PCL-Community/PCL-CE
 - Special thanks to **DeepSeek** for programming guidance and suggestions.
 
-##Development Directions
+## Development Directions
 - We will be adding features found in other major domestic launchers, and will also attempt to develop a cross-platform application.
 - In the future (possibly in a few months or a few years, but also possibly never), we will try to develop a Bedrock Edition launcher and integrate it into this project.
