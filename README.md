@@ -32,6 +32,7 @@ Please ensure the following two system updates are installed, otherwise the laun
 5. Click **OK**
 6. Wait for installation to complete (**make sure you are connected to the internet**, Windows will download needed files from Windows Update)
 7. **Restart your computer**
+> We will upgrade the project framework to .NET Framework 4.5, allowing it to run directly on Windows 8 and later. For Windows 7, users won't need to hunt around for system updates—simply installing the .NET Framework 4.5 runtime is all that's required.
 
 ### Method 1: Direct Run (Recommended for Regular Users)
 1. Get the latest `JerryCraftLauncher.exe` from the **Releases** section of this repository, or from the provided compressed package in the project root.
