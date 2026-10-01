@@ -1,5 +1,11 @@
 # Jerry Craft Launcher
 
+## This project was scrapped due to data security and other issues.
+## If you are a respected Mojang review staff member, please go to the new project URL for the review. Direct link to the new project:(https://github.com/Jerry-Play-MC/Jerry-Craft-Launcher_WPF)
+## If you’re a regular visitor, please also check out the link above for the new project, as this project is no longer supported.
+## The client_id used for official login will be synced to the new project.
+
+
 > A lightweight Minecraft launcher based on C# .NET Framework 3.5
 
 ## ✨ Features
